@@ -1,6 +1,6 @@
 ## SwitchLanguage
 
-SwitchLanguage i only used this project to create a template to how use a library i18next.
+SwitchLanguage i only used this project to create a template to how use a library i18next and switch language in a Mobile Application.
 
 <hr>
 
